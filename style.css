@@ -1,0 +1,21 @@
+body{
+    margin: 3em
+}
+
+.container-fluid{
+    color: #8c9c14;
+}
+nav  .container-fluid a{
+    color: green;
+    font-weight: bolder;
+}
+h3{
+    text-align: center;
+     
+}
+footer{
+    color: green;
+    text-align: center;
+    font-size: smaller;
+}
+
